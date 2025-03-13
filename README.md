@@ -1,13 +1,13 @@
-# 🔥 Graph Neural Networks: GCN vs. GAT on Cora Dataset  
+#  Graph Neural Networks: GCN vs. GAT on Cora Dataset  
 
-### 🚀 **What’s This Project About?**  
+###  **What’s This Project About?**  
 In this project, we **compare two powerful Graph Neural Networks (GNNs)**—**Graph Convolutional Networks (GCN) and Graph Attention Networks (GAT)**—on the **Cora dataset** to see which one performs better in node classification.  
 
 ### 🤔 **Why This Project?**  
 Graph data is **everywhere**—social networks, recommendation systems, biology, etc. But traditional ML models **struggle with graphs** because they assume data is independent, which isn’t true in graphs. GNNs fix this by learning **relationships between connected nodes**.  
 
 This project asks a simple question:  
-💡 **Is it better to treat all connections equally (GCN) or assign different importance to different connections (GAT)?**  
+ **Is it better to treat all connections equally (GCN) or assign different importance to different connections (GAT)?**  
 
 ---
 
